@@ -12,7 +12,7 @@ class Cashier extends Controller
 {
     public function Cashier_view()
     {
-        return view('Cashier.Cashier_view');
+        return view('Cashier.Cashier_view2');
     }
 
     public function findProduct(Request $request)

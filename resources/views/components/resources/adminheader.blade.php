@@ -147,7 +147,7 @@
                             </li>
 
 
-                            
+
                             <li class="has_sub">
                                 <a class="waves-effect"><i class="ion-person-add"></i> <span>Cashier </span>
                                 </a>
